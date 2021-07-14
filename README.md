@@ -10,7 +10,7 @@ BootAPIJava
 
 
 
-POST Hibernate<img width="430" alt="DBSnap" src="https://user-images.githubusercontent.com/47211382/125596806-2cfdfe49-c4c7-41ef-9889-610efb01f315.png">
+POST Hibernate<img width="1217" alt="POST Hibernate" src="https://user-images.githubusercontent.com/47211382/125597253-94bbe4b2-1c88-44a9-88d9-cd88d15fd69d.png">
 
 GET-Hibernate<img width="1217" alt="GET-Hibernate" src="https://user-images.githubusercontent.com/47211382/125596929-d3aa3ee7-1d43-4d33-9446-d930e0080696.png">
 
